@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot
-  phrase = " Fosho Sho"
+  phrase = "Fosho Sho"
   puts phrase
   return phrase
 end 
